@@ -6,7 +6,7 @@
 
 <?php
 echo "Hello World!";
-echo "Hello from sample openshift version 1"
+echo "Hello from sample openshift version <b>2</b>"
 ?>
 
 </body>
